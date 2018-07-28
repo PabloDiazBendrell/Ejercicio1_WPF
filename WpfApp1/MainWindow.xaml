@@ -109,6 +109,9 @@
             <TextBlock Text="Note" />
             <TextBox Padding="2"/>
 
+            <TextBlock Text="Pablo" />
+            <TextBox Padding="2"/>
+
 
 
 
